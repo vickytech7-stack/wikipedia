@@ -53,7 +53,7 @@ Wikipedia-Search-App/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Wikipedia-Search-App.git
+https://github.com/vickytech7-stack/wikipedia.git
 ```
 
 Go to the project folder
@@ -80,8 +80,7 @@ Open `index.html` in your browser.
 ---
 
 ## API Used
-
-CCBP Wikipedia Search API
+ Wikipedia Search API
 
 ```
 https://apis.ccbp.in/wiki-search
