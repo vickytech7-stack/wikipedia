@@ -110,7 +110,7 @@ GitHub:
 https://github.com/vickytech7-stack
 
 LinkedIn:
-https://www.linkedin.com/in/vicky-kumar-chowrasia-8b1539215/
+www.linkedin.com/in/vicky-kumar-52aa55419
 
 ---
 
