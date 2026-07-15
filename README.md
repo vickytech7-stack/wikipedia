@@ -5,26 +5,13 @@ A simple and responsive **Wikipedia Search Application** built using **HTML, CSS
 ---
 
 ## 🚀 Live Demo
-
-Add your live demo link here:
-
-```
-https://your-live-demo-link.com
-```
+https://wikipedia-bay-mu.vercel.app/
 
 ---
 
 ## 📸 Screenshot
 
-Add your project screenshot here.
 
-Example:
-
-```
-images/screenshot.png
-```
-
----
 
 ## ✨ Features
 
@@ -56,8 +43,7 @@ Wikipedia-Search-App/
 ├── index.css
 ├── index.js
 ├── README.md
-└── images/
-    └── screenshot.png
+
 ```
 
 ---
