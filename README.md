@@ -83,7 +83,7 @@ Open `index.html` in your browser.
  Wikipedia Search API
 
 ```
-https://apis.ccbp.in/wiki-search
+
 ```
 
 ---
